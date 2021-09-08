@@ -137,3 +137,13 @@ timedatectl
 
   timedatectl set-time 09:00:00
 
+vifm
+----
+
+<table class="key-binding">
+  <tr><th></th><th></th></tr>
+  <tr><td>t</td><td>Select file</td></tr>
+  <tr><td>ys</td><td>Yank (copy) selected</td></tr>
+  <tr><td>p</td><td>Put (paste)</td></tr>
+  <tr><td>:cd! .</td><td>Change pane directory to match current</td></tr>
+</table>
