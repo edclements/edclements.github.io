@@ -132,6 +132,8 @@ timedatectl
 -----------
 
   timedatectl set-ntp no
+
   timedatectl set-time 2021-01-01
+
   timedatectl set-time 09:00:00
 
