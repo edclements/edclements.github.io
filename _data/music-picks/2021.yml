@@ -24,6 +24,7 @@
   label: PIAS
   label-link: https://store.pias.com/release/222358-blanketman-national-trust
   spotify: https://open.spotify.com/album/30cEpCJuBLrynGqbijZWje
+  youtube-music: https://music.youtube.com/playlist?list=OLAK5uy_lITzlIUDbJF0vWOr2PmkzyTwLMkiJ_yQE
   title: National Trust
 
 - artist: New Pagans
@@ -60,4 +61,36 @@
   label: Hyperdub
   youtube-music: https://music.youtube.com/channel/UCkBJm6QbSDLvZH4A2YxPndA
   title: Reflection
+
+- artist: Sunroof
+  bandcamp: https://sunroofmusic.bandcamp.com/album/electronic-music-improvisations-vol-1
+
+- artist: Daniel Avery
+  bandcamp: https://danielavery.bandcamp.com/album/together-in-static
+
+- artist: zakè & City Of Dawn
+  bandcamp: https://zakedrone.bandcamp.com/album/frizzell-duque-a-sorrow-unrequited
+  date: 2021-03-12
+  label: Zakè Drone Recordings
+  youtube-music: https://music.youtube.com/playlist?list=OLAK5uy_lsLWoNZP00fjYaNDMQOtU7gbDdvrpzPGc
+  title: Frizzell & Duque: A Sorrow Unrequited
+
+- artist: Altın Gün
+  bandcamp: https://altingun.bandcamp.com/album/yol
+  date: 2021-02-26
+  label: Glitterbeat Records
+  youtube-music: https://music.youtube.com/playlist?list=OLAK5uy_ljp6IRk409VMOpYQT3QdNNqPxNlYTPBg4
+  title: Yol
+
+- artist: Altın Gün
+  bandcamp: https://altingunband.bandcamp.com/album/lem
+  date: 2021-07-23
+  title: Âlem
+
+- artist: Manu Delago
+  bandcamp: https://manudelago.bandcamp.com/album/environ-me-2
+  date: 2021-09-24
+  label: One Little Independant Records
+  youtube-music: https://music.youtube.com/channel/UCW1UJzlJ3ZBywA6K-A2GQnw
+  title: Environ Me
 
