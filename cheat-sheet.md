@@ -128,6 +128,10 @@ Run MySQL container
 
     docker run -p 8033:3306 --name mysql-5-6 -e MYSQL_ROOT_PASSWORD=password -d mysql:5.6.44
 
+Update restart policy
+
+    docker update --restart unless-stopped mysql-5.6
+
 timedatectl
 -----------
 
