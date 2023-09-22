@@ -111,6 +111,10 @@ Log summary
 
     git log --pretty=oneline --abbrev-commit
 
+Update date on last commit
+
+    git commit --amend --no-edit --date "$(date)"
+
 mysql
 -----
 
